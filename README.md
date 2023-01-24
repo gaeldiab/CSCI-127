@@ -1,1 +1,1 @@
-# Hunter-csci12
+# Hunter-csci-classes

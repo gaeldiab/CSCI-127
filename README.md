@@ -1,2 +1,1 @@
-# Hunter-csci-classes
-# This repo has the codes to Assignments I had during CSCI 127
+# This repo has the codes to Assignments I did during CSCI 127

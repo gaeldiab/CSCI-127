@@ -1,1 +1,1 @@
-# This repo has the codes to Assignments I did during CSCI 127
+# This repo has the codes to Assignments completed during CSCI 127 at Hunter College
